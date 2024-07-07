@@ -1,0 +1,4 @@
+rootProject.name = 'tango'
+
+include 'auth-api'
+include 'dashboard-api'
